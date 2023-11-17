@@ -11,3 +11,5 @@
 ## 4 - Support Vector
 
 ## 5 - K-Nearest Neighbour
+
+## 6 - K-Means Clustering
