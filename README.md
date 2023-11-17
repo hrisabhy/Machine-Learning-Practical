@@ -13,3 +13,7 @@
 ## 5 - K-Nearest Neighbour
 
 ## 6 - K-Means Clustering
+
+## 7 - Hierarchical Clustering
+
+## 8 - Activation Function
