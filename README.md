@@ -17,3 +17,5 @@
 ## 7 - Hierarchical Clustering
 
 ## 8 - Activation Function
+
+## 9 - Tensor Operation
