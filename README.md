@@ -9,3 +9,5 @@
 ## 3 - Logistic Regression
 
 ## 4 - Support Vector
+
+## 5 - K-Nearest Neighbour
